@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Below you wiil find few repositories which I have created or contributed to.
+Below you wiil find few repositories to which I have contributed.
 
 
 <!--
