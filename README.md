@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Below you wiil find few repositories to which I have contributed.
-
 
 <!--
 **rsk2/rsk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
